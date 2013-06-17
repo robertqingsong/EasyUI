@@ -149,7 +149,6 @@ public class HomeActivity extends BaseActivity implements
             triggerRefresh();
             registerGCMClient();
         }
-
     }
 
     private void registerGCMClient() {
